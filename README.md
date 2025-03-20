@@ -20,19 +20,23 @@ I’m passionate about learning and applying the knowledge I gain in my studies 
 - **Old GitHub**: [mehak-j](https://github.com/mehak-j) 
 ---
 
-<!-- Anime Cat Gif -->
-![Anime Cat](https://media.giphy.com/media/VyRmDrDxuE0s/giphy.gif)
+<!-- Centered Anime Cat Gif -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="GIF">
+</p>
 
 ---
 
 ### 💻 GitHub Stats
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehakjay&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula" alt="Mehak's GitHub Stats">
-</div>
+</p>
 
 ---
 
 Hope you enjoy exploring my projects! Feel free to reach out to me if you have any questions or want to chat. 💻💫
 
 </div>
+
+
