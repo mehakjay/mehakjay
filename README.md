@@ -1,4 +1,4 @@
-<div style="border: 2px solid #44475a; padding: 20px; border-radius: 10px; background-color: #282a36; color: #f8f8f2;">
+<div style="border: 2px solid #44475a; padding: 20px; border-radius: 10px; background-color: #282a36; color: #f8f8f2; font-family: 'Courier New', monospace;">
 
 # HI GUYS 🌠🔅,
 
@@ -38,5 +38,4 @@ I’m passionate about learning and applying the knowledge I gain in my studies 
 Hope you enjoy exploring my projects! Feel free to reach out to me if you have any questions or want to chat. 💻💫
 
 </div>
-
 
