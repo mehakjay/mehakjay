@@ -20,11 +20,6 @@ I’m Mehak Jay, a Computer Science student at UT Dallas. I’m really glad to b
 
 ---
 
-username=mehakjay&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula" alt="Mehak's GitHub Stats">
-</p>
-
----
-
 Hope you enjoy exploring my projects! Feel free to reach out to me if you have any questions or want to chat. 👀
 
 </div>
