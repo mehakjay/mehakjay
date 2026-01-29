@@ -1,34 +1,35 @@
 <p align="center">
-  <img src="sunset-banner.png" alt="Sunset Zen Banner">
+  <img src="galaxy-banner.png" alt="Galaxy Banner">
 </p>
 
-<h1 align="center">Hi, I’m Mehak Jay 🌅</h1>
+<h1 align="center">Hi, I’m Mehak Jay 🌌</h1>
 
 <p align="center">
   <i>Computer Science Student @ UT Dallas</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaF4A261?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-Always Learning-90DBB4?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Investment-Banking and Artificial Intelligence-FFD166?style=flat-square">
+  <img src="https://img.shields.io/badge/Java-5865F2?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Learning-57F287?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-AI-9B5DE5?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Investment%20Banking-F15BB5?style=flat-square">
 </p>
 
 ---
 
-### 🌿 About Me
+### 🌙 About Me
 
-I’m a Computer Science student at UT Dallas who enjoys building small, thoughtful projects while steadily growing my skills. I learn best by experimenting, making mistakes, and understanding *why* things work — not just getting output.
+I’m a Computer Science student at UT Dallas who enjoys building small, thoughtful projects while steadily growing my skills. I like learning by experimenting, breaking things, fixing them, and understanding *why* things work — not just making them work.
 
-I’m especially interested in cybersecurity, problem-solving, and writing clean, readable code. Every project here represents a step forward in my journey.
+I’m still early in my journey, but every project teaches me something new, and that’s what keeps me excited about programming.
 
 ---
 
-### 🌙 What You’ll Find Here
+### 🚀 What You’ll Find Here
 
-- Beginner-friendly C++ programs  
+- Java projects  
 - Practice problems & experiments  
-- School projects  
+- School assignments  
 - Concepts I’m currently learning  
 
 My goal is simple: improve a little every day.
@@ -42,12 +43,9 @@ My goal is simple: improve a little every day.
 - Instagram: https://www.instagram.com/me.haks  
 - Discord: https://discord.com/users/me.haks  
 
-Feel free to explore my repositories or reach out — I’m always open to learning and collaboration.
-
 ---
 
 <p align="center">
-  🌸 Thanks for stopping by 🌸
+  ✨ Thanks for stopping by ✨
 </p>
-
 
