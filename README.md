@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="galaxy-banner.png" alt="Galaxy Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mehak%20Jay&fontSize=42&fontColor=EAEAEA&animation=fadeIn" />
+
 </p>
 
 <h1 align="center">Hi, I’m Mehak Jay 🌌</h1>
@@ -27,12 +28,12 @@ I’m still early in my journey, but every project teaches me something new, and
 
 ### 🚀 What You’ll Find Here
 
-- Java projects  
-- Practice problems & experiments  
-- School assignments  
-- Concepts I’m currently learning  
+- Java projects (private) 
+- Eccommerce Application  (private) 
+- School assignments  (private)
+- Concepts I’m currently learning (private)
 
-My goal is simple: improve a little every day.
+ CARPE OMNIA.
 
 ---
 
@@ -46,6 +47,6 @@ My goal is simple: improve a little every day.
 ---
 
 <p align="center">
-  ✨ Thanks for stopping by ✨
+  ✨ Thanks for checking out my work! ✨
 </p>
 
