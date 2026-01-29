@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-F4A261?style=flat-square">
-  <img src="https://img.shields.io/badge/Status-Learning-90DBB4?style=flat-square">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-FFD166?style=flat-square">
+  <img src="https://img.shields.io/badge/JavaF4A261?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Always Learning-90DBB4?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Investment-Banking and Artificial Intelligence-FFD166?style=flat-square">
 </p>
 
 ---
