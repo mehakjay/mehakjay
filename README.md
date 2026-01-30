@@ -20,10 +20,7 @@
 ### 🌊 About Me
 
 <span style="color:#E0FFFF;">
-I’m a Computer Science student at UT Dallas who enjoys building **small, thoughtful projects** while steadily growing my skills.  
-I like learning by **experimenting, breaking things, fixing them**, and understanding *why* things work — not just making them work.
-
-Every project teaches me something new, and that’s what keeps me motivated and inspired.
+I’m a Computer Science student at UT Dallas. I approach learning through open-ended experimentation, exploring ideas without a fixed plan, analyzing what works and why, and applying those insights to build my skills.
 </span>
 
 ---
