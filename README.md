@@ -17,7 +17,7 @@
 
 ---
 
-### 🌊 About Me
+### 🤯 About Me
 
 <span style="color:#E0FFFF;">
 I’m a Computer Science student at UT Dallas. I approach learning through open-ended experimentation, exploring ideas without a fixed plan, analyzing what works and why, and applying those insights to build my skills.
@@ -32,7 +32,6 @@ I’m a Computer Science student at UT Dallas. I approach learning through open-
 - Concepts I’m currently learning (private)  
 </span>
 
-**CARPE OMNIA.**  
 
 ---
 
