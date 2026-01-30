@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=tilt&color=0:2E8BC0,50:0C2D48,100:145DA0&height=200&section=header&text=Mehak%20Jay&fontSize=42&fontColor=EAEAEA&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8BC0,50:0C2D48,100:145DA0&height=200&section=header&text=Mehak%20Jay&fontSize=42&fontColor=EAEAEA&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hello 🌌</h1>
