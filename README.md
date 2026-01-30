@@ -10,12 +10,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-A8DADC?style=for-the-badge&logo=java&logoColor=1D3557">
-  <img src="https://img.shields.io/badge/Computer%20Architecture-457B9D?style=for-the-badge&logo=microchip&logoColor=E0FFFF">
-  <img src="https://img.shields.io/badge/Networking-1D3557?style=for-the-badge&logo=cisco&logoColor=A8DADC">
-  <img src="https://img.shields.io/badge/Databases-2A6F97?style=for-the-badge&logo=mysql&logoColor=E0FFFF">
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-457B9D?style=for-the-badge&logo=tableau&logoColor=E0FFFF">
-  <img src="https://img.shields.io/badge/Focus-Financial%20Modeling-1D3557?style=for-the-badge&logo=excel&logoColor=A8DADC">
+  <img src="https://img.shields.io/badge/Object-Oriented%20Programming-457B9D?style=for-the-badge&logo=java&logoColor=E0FFFF">
+  <img src="https://img.shields.io/badge/Computer%20Architecture-1D3557?style=for-the-badge&logo=microchip&logoColor=A8DADC">
+  <img src="https://img.shields.io/badge/Networking-2A6F97?style=for-the-badge&logo=cisco&logoColor=E0FFFF">
+  <img src="https://img.shields.io/badge/Databases-A8DADC?style=for-the-badge&logo=mysql&logoColor=1D3557">
+  <img src="https://img.shields.io/badge/AI-457B9D?style=for-the-badge&logo=tensorflow&logoColor=E0FFFF">
+  <img src="https://img.shields.io/badge/Focus-Financial%20Data%20Engineering-1D3557?style=for-the-badge&logo=postgresql&logoColor=A8DADC">
+  <img src="https://img.shields.io/badge/Focus-Risk%20&%20Trading%20Systems-2A6F97?style=for-the-badge&logo=ibm&logoColor=E0FFFF">
+  <img src="https://img.shields.io/badge/Focus-Algorithmic%20Tools-A8DADC?style=for-the-badge&logo=tensorflow&logoColor=1D3557">
 </p>
+
 
 ---
 
