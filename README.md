@@ -10,9 +10,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-A8DADC?style=for-the-badge&logo=java&logoColor=1D3557">
-  <img src="https://img.shields.io/badge/Status-Learning-457B9D?style=for-the-badge&logo=book&logoColor=E0FFFF">
-  <img src="https://img.shields.io/badge/Focus-AI-1D3557?style=for-the-badge&logo=tensorflow&logoColor=A8DADC">
-  <img src="https://img.shields.io/badge/Focus-Investment%20Banking-2A6F97?style=for-the-badge&logo=bitcoin&logoColor=E0FFFF">
+  <img src="https://img.shields.io/badge/Computer%20Architecture-457B9D?style=for-the-badge&logo=microchip&logoColor=E0FFFF">
+  <img src="https://img.shields.io/badge/Networking-1D3557?style=for-the-badge&logo=cisco&logoColor=A8DADC">
+  <img src="https://img.shields.io/badge/Databases-2A6F97?style=for-the-badge&logo=mysql&logoColor=E0FFFF">
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-457B9D?style=for-the-badge&logo=tableau&logoColor=E0FFFF">
+  <img src="https://img.shields.io/badge/Focus-Financial%20Modeling-1D3557?style=for-the-badge&logo=excel&logoColor=A8DADC">
 </p>
 
 ---
