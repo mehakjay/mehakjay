@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8DADC,50:457B9D,100:1D3557&height=200&section=header&text=Mehak%20Jay&fontSize=48&fontColor=E0FFFF&animation=fadeIn" />
 </p>
 
-<h1 align="center">🌊 Hello 🌌</h1>
+<h1 align="center">  Welcome 🌙</h1>
 
 <p align="center">
   <i style="color:#E0FFFF;">Computer Science Student @ UT Dallas</i>
@@ -28,12 +28,10 @@ Every project teaches me something new, and that’s what keeps me motivated and
 
 ---
 
-### 🚀 What You’ll Find Here
-
 <span style="color:#B0E0E6;">
 - Java projects (private)  
-- E-commerce Application  (private)  
-- School assignments  (private)  
+- E-commerce Application (private)  
+- School assignments (private)  
 - Concepts I’m currently learning (private)  
 </span>
 
