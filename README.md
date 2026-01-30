@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:3A001F,100:5C002B&height=200&section=header&text=Mehak%20Jay&fontSize=48&fontColor=FF2D55&animation=twinkling" />
 </p>
 
-<h1 align="center">Hello Darling 🌌</h1>
+<h1 align="center">Hello 🌌</h1>
 
 <p align="center">
   <i>Computer Science Student @ UT Dallas</i>
