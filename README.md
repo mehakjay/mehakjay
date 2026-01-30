@@ -26,10 +26,9 @@ I approach learning through open-ended experimentation, exploring ideas without 
 ---
 
 <span style="color:#B0E0E6;">
-- Java projects (private)  
-- E-commerce Application (private)  
-- School assignments (private)  
-- Concepts I’m currently learning (private)  
+- Java projects (in progress)  <br>
+- E-commerce Application (in progress)  <br>
+- Concepts I’m currently learning  <br>
 </span>
 
 
@@ -38,16 +37,16 @@ I approach learning through open-ended experimentation, exploring ideas without 
 ### 🤍 Connect With Me
 
 <span style="color:#E0FFFF;">
-- LinkedIn: [Mehak Jay](https://www.linkedin.com/in/mehak-jay)  
-- GitHub (old account): [mehak-j](https://github.com/mehak-j)  
-- Instagram: [me.haks](https://www.instagram.com/me.haks)  
-- Discord: [me.haks](https://discord.com/users/me.haks)  
+- LinkedIn: [Mehak Jay](https://www.linkedin.com/in/mehak-jay) <br> 
+- GitHub (old account): [mehak-j](https://github.com/mehak-j)  <br>
+- Instagram: [me.haks](https://www.instagram.com/me.haks)  <br>
+- Discord: [me.haks](https://discord.com/users/me.haks)  <br>
 </span>
 
 ---
 
 <p align="center">
-  <span style="color:#B0E0E6;">🌊✨ Thanks for visiting! ✨🌊</span>
+  <span style="color:#B0E0E6;">Thanks for stopping by! 👋🏽</span>
 </p>
 
 
