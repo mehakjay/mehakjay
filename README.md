@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8DADC,50:457B9D,100:1D3557&height=200&section=header&text=Mehak%20Jay&fontSize=48&fontColor=E0FFFF&animation=fadeIn" />
 </p>
 
-<h1 align="center">  Welcome 🙏🏽</h1>
+<h1 align="center">  Hello</h1>
 
 <p align="center">
   <i style="color:#E0FFFF;">Computer Science Student @ UT Dallas</i>
@@ -45,14 +45,12 @@ I approach learning through open-ended experimentation, exploring ideas without 
 <span style="color:#E0FFFF;">
 - LinkedIn: [Mehak Jay](https://www.linkedin.com/in/mehak-jay) <br> 
 - GitHub (old account): [mehak-j](https://github.com/mehak-j)  <br>
-- Instagram: [me.haks](https://www.instagram.com/me.haks)  <br>
-- Discord: [me.haks](https://discord.com/users/me.haks)  <br>
 </span>
 
 ---
 
 <p align="center">
-  <span style="color:#B0E0E6;">Thanks for stopping by! 👋🏽</span>
+  <span style="color:#B0E0E6;">BYE</span>
 </p>
 
 
