@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8DADC,50:457B9D,100:1D3557&height=200&section=header&text=Mehak%20Jay&fontSize=48&fontColor=E0FFFF&animation=fadeIn" />
 </p>
 
-<h1 align="center">  Hello</h1>
-
 <p align="center">
   <i style="color:#E0FFFF;">Computer Science Student @ UT Dallas</i>
 </p>
@@ -20,14 +18,6 @@
   <img src="https://img.shields.io/badge/Focus-Algorithmic%20Tools-A8DADC?style=for-the-badge&logo=tensorflow&logoColor=1D3557">
 </p>
 
-
----
-
-### 🤯 About Me
-
-<span style="color:#E0FFFF;">
-I approach learning through open-ended experimentation, exploring ideas without a fixed plan, analyzing what works and why, and applying those insights to build my skills.
-</span>
 
 ---
 
@@ -48,9 +38,5 @@ I approach learning through open-ended experimentation, exploring ideas without 
 </span>
 
 ---
-
-<p align="center">
-  <span style="color:#B0E0E6;">BYE</span>
-</p>
 
 
